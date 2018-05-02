@@ -22,6 +22,7 @@ public class Coin : MonoBehaviour
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
+        collected = 0;
     }
 
     public void OnCoinClicked()
