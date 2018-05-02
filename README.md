@@ -62,7 +62,7 @@ My next idea was to predefine a maze level as an array, but a numeric array wasn
 		"";
 
 		
-[[https://wessendorf.org/a-maze.png]]
+![Maze in editor view](https://wessendorf.org/a-maze.png)
 		
 		
 ### Game mode only
